@@ -1,16 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![melene26](https://img.shields.io/badge/melene26-github-blue?logo=github)](https://github.com/melene26)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hi. ✨\
+I'm Marie Mélène Sèmèvo TONOU, PhD student in AI applied to healthcare.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: mms.tonou@gmail.com \
+LinkedIn : [Marie Mélène Tonou](https://www.linkedin.com/in/marie-melene-tonou)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- Ph.D., Computer Engineering and Telecommunication, Doctoral School of Engineering Sciences (ED-SDI - UAC), Benin, 2025 - now.
+- Ing., Computer Science, Logistics, and Operations Research, National Higher School of Mathematical Engineering and Modelling (ENSGMM - UNSTIM), Benin, 2021 - 2024.
+- Preparatory Classes for Engineering Schools, Higher Institute of Preparatory Classes for Engineering Schools (INSPEI - UNSTIM), Benin, 2019 - 2021.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+AI applied to healthcare - Neuroscience - Machine learning - Ethic and responsability in AI.
+
+#### Hobbies
+Sport - Reading - Walking - Music - DIY Enthusiast.
